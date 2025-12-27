@@ -23,7 +23,7 @@ Meta Tags: Character set to UTF-8 and viewport settings for responsiveness.
 
 Title: Set the browser tab title to: Terminal X-Omega | Intergalactic Spaceport.
 
-CSS Link: Link to an external stylesheet named styles.css.
+CSS Link: Link to an external stylesheet named styles.css. (bolos gasaketebeli)
 
 Step 3: The Header Area
 We need a header that serves as the main title banner.
@@ -81,7 +81,7 @@ Card 2: Titan Station (Class: Industrial)
 
 Card 3: Nebula Resort (Class: Luxury)
 
-Card 4: Event Horizon (Class: Extreme)
+Card 4: Event Horizon (Class: Extreme) -----------------------------------------
 
 Step 5: The Departure Board
 Create the second section for the flight schedule.
